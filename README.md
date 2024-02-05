@@ -31,7 +31,7 @@ Customizations steps as:
 * AWS Step Functions Activities using custom workers, hosted either in AWS or on-prem
 * Amazon SNS or SQS integrations to decoupled consumer-based applications
 
-### Example Payload
+### Example Payload.
 
 ```
 {
